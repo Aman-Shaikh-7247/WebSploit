@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: Omar Santos (@santosomar)
+# Author: Aman Shaikh (@amanshaikh)
 # Dynamic script to display running WebSploit containers and their IP addresses.
 
 # Clear the screen
@@ -7,7 +7,7 @@ clear
 
 # Header
 echo -e "\n\e[96mWebSploit Lab Environment\e[39m"
-echo -e "by Omar Santos (@santosomar)"
+echo -e "by Aman Shaikh (@amanshaikh )"
 echo -e "-------------------------------------------"
 echo -e "Internal Hacking Networks: \e[93m10.6.6.0/24\e[39m and \e[93m10.7.7.0/24\e[39m\n"
 
