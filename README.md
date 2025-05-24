@@ -1,11 +1,9 @@
-# WebSploit
-
 # WebSploit Labs
-WebSploit Labs is a learning environment created by Aman Shaikh for different Cybersecurity Ethical Hacking, Bug Hunting, Incident Response, Digital Forensics, and Threat Hunting training sessions. WebSploit Labs includes several intentionally vulnerable applications running in Docker containers on top of Kali Linux or Parrot Security OS, several additional tools, and over 9,000 cybersecurity resources.
+WebSploit Labs is a learning environment created by Omar Santos for different Cybersecurity Ethical Hacking, Bug Hunting, Incident Response, Digital Forensics, and Threat Hunting training sessions. WebSploit Labs includes several intentionally vulnerable applications running in Docker containers on top of Kali Linux or Parrot Security OS, several additional tools, and over 9,000 cybersecurity resources.
 
 WebSploit Labs has been used by many colleges and universities in different countries. It comes with over 500 distinct exercises!
 
-You can obtain additional information about WebSploit Labs at: _____________provide link __________________
+You can obtain additional information about WebSploit Labs at: [https://websploit.org](https://websploit.org)
 
 ---
 
@@ -44,4 +42,4 @@ This script will:
 
 ### Important Notes
 - **Apple M-series Macs (running on Apple Silicon) are not supported** due to compatibility issues with hypervisors and Docker on ARM architecture.
-- You can **verify the integrity** of the `install.sh` script by checking its SHA-512 checksum ______________provide link____________________________________________________________
+- You can **verify the integrity** of the `install.sh` script by checking its SHA-512 checksum [here](https://websploit.org).
